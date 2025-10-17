@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -u vincent chgrp -Rf staff . 
+su vincent chgrp -R staff . 
