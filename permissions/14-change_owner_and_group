@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -u vincent chgrp -R staff permissions 
+sudo -u vincent chgrp -R staff . 
